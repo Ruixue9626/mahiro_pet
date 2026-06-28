@@ -67,7 +67,6 @@ chmod +x ~/.local/bin/copilot
 一鍵建立虛擬環境、安裝依賴並直接啟動：
 
 ```bash
-git clone https://github.com/your-username/mahiro-pet.git
 cd mahiro-pet
 bash setup.sh
 ```
@@ -86,7 +85,6 @@ bash setup.sh
 1. Clone 專案：
 
 ```bash
-git clone https://github.com/your-username/mahiro-pet.git
 cd mahiro-pet
 ```
 
@@ -128,7 +126,7 @@ assets/
 
 支援格式：`.png` `.jpg` `.webp`
 
-> 沒有放圖片也沒關係！會自動用內建彩色圓圈代替。
+> 沒有放圖片也沒關係！會自動用內建的真尋。
 
 ---
 
