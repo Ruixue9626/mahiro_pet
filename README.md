@@ -4,7 +4,7 @@
 [![Latest release](https://img.shields.io/github/v/release/1NotAmon/mahiro_pet_windows )](https://github.com/1NotAmon/mahiro_pet_windows/releases/latest )
 <p align="center">
   
-  <img src="assets/idle/001.png" width="480" alt="Mahiro Desktop Pet" />
+  <img src="assets/idle/001.png" width="400" alt="Mahiro Desktop Pet" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 > [下載最新版](https://github.com/1NotAmon/mahiro_pet_windows/releases/latest )
 </p>
 <p align="center">
-  <img src="preview.png" width="1000" alt="Mahiro Desktop Pet preview" />
+  <img src="preview.png" width="800" alt="Mahiro Desktop Pet preview" />
 </p>
 ---
 
