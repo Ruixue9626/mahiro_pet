@@ -10,6 +10,7 @@
   
 > **🪟 想在 Windows 上使用？** 本專案原本是 Linux／X11 版，Windows 移植版由
 > [@1NotAmon](https://github.com/1NotAmon ) 維護，功能與素材完全相同：
+> [![Windows 版介紹](https://img.shields.io/badge/Windows 版介紹-windows.md )](https://github.com/Ruixue9626/mahiro_pet/blob/main/windows.md)
 > [![Windows 移植版](https://img.shields.io/badge/Windows%20%E7%A7%BB%E6%A4%8D%E7%89%88-mahiro__pet__windows-blue )](https://github.com/1NotAmon/mahiro_pet_windows )
 > [![Latest release](https://img.shields.io/github/v/release/1NotAmon/mahiro_pet_windows )](https://github.com/1NotAmon/mahiro_pet_windows/releases/latest ) 
 </p>
