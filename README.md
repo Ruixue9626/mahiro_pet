@@ -8,7 +8,7 @@
   一個在你桌面上陪你寫 code 的 PyQt6 桌寵，會監聽 GitHub Copilot CLI 的執行狀態，自動切換動畫與送出系統通知。
 </p>
 <p align="center">
-  <img src="assets/idle/preview.png" width="120" alt="Mahiro Desktop Pet preview" />
+  <img src="preview.png" width="120" alt="Mahiro Desktop Pet preview" />
 </p>
 ---
 
